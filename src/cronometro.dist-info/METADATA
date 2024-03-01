@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.17
+Name: cronometro
+Formal-Name: Cronometro
+App-ID: com.example.cronometro
+Version: 0.0.1
+Home-page: https://example.com/cronometro
+Download-URL: https://example.com/cronometro
+Author: Daniel Luiz
+Author-email: daniel@example.com
+Summary: Cronometro simples com python
